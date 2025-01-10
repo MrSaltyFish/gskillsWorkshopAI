@@ -1,2 +1,2 @@
-# gskillsWorkshopAI
-recreated
+# greenskillsWorkshop
+AI Workshop on Green Skills
